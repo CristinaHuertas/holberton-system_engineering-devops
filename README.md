@@ -1,0 +1,1 @@
+This project is about Shell, and basics commands we can use. 
